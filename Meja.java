@@ -1,3 +1,11 @@
+/**
+* Tugas 5 - Membuat listing program dengan class tertentu
+* https://github.com/angrypin/listing_program
+* @author angrypin
+* @version 1.0.0
+* @since 2021-09-13
+*/
+
 /* M. Arifin Ilham - XII RPL 1 - 13/09/2021 */
 
 // kelas Meja
